@@ -31,4 +31,4 @@ corporation does not support any after-sale services for appliances.
 This mega store corporation needs help in enhancing its services to be automatically adjustable 
 to each country and customer preferences based on search and purchase history. This includes 
 web services and mobile services. Also, it needs to gain competition by providing various 
-payment techniques and packages
+payment techniques and packages.
